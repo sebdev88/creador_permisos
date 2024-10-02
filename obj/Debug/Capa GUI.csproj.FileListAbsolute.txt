@@ -1,0 +1,11 @@
+C:\Users\Sebastian\source\repos\crea_permisos\bin\Debug\crea_permisos.exe.config
+C:\Users\Sebastian\source\repos\crea_permisos\bin\Debug\crea_permisos.exe
+C:\Users\Sebastian\source\repos\crea_permisos\bin\Debug\crea_permisos.pdb
+C:\Users\Sebastian\source\repos\crea_permisos\obj\Debug\crea_permisos.formulario_permiso.resources
+C:\Users\Sebastian\source\repos\crea_permisos\obj\Debug\crea_permisos.ingreso_excel.resources
+C:\Users\Sebastian\source\repos\crea_permisos\obj\Debug\crea_permisos.menu_principal.resources
+C:\Users\Sebastian\source\repos\crea_permisos\obj\Debug\crea_permisos.Properties.Resources.resources
+C:\Users\Sebastian\source\repos\crea_permisos\obj\Debug\Capa GUI.csproj.GenerateResource.cache
+C:\Users\Sebastian\source\repos\crea_permisos\obj\Debug\Capa GUI.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\crea_permisos\obj\Debug\crea_permisos.exe
+C:\Users\Sebastian\source\repos\crea_permisos\obj\Debug\crea_permisos.pdb
